@@ -9,12 +9,7 @@ public class Employee {
 
 
 
-    // No puedo definir el objeto percent en el contrato Employee, pues según la UML, dicho objeto NO forma parte del contrato
-    // Para que pueda dar resultado el raisePercent, tendría que haber un objeto percent definido, si no lo puedo definir en este contrato, y al crear una
-    // clase Percent NO admite el metodoraise cuando lo codifico fuera de la clase percent; y pese a no mostrar error en la clase Employee,
-    //sí que lo muestra en TestEmployee cuando defino el metodoraise y el metodoToString dentro de la clase Percent si la contengo dentro de la clase Employee
-    // hasta nuevo aviso, quizá sea preferible dejar solamente el metodoraise como inusable en los test a meter informacion que NO se ha pedido en el contrato,
-    // pues este se quebraría
+
 
     public Employee(int id, String firstName, String lastName, int salary) {
         this.id = id;
