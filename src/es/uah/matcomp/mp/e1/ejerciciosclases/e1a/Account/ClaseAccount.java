@@ -1,4 +1,4 @@
-package es.uah.matcomp.mp.e1.ejerciciosclases;
+package es.uah.matcomp.mp.e1.ejerciciosclases.e1a.Account;
 //1.6.
 
 public class ClaseAccount {

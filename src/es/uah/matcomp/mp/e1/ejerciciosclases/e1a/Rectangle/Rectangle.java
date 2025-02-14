@@ -1,5 +1,5 @@
-package es.uah.matcomp.mp.e1.ejerciciosclases;
-
+package es.uah.matcomp.mp.e1.ejerciciosclases.e1a.Rectangle;
+//1.3
 public class Rectangle {
     //public  Rectangle {  // Save as "Circle.java"
         // private instance variable, not accessible from outside this class

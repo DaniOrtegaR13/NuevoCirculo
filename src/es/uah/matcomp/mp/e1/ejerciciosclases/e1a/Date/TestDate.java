@@ -1,6 +1,5 @@
-package es.uah.matcomp.mp.e1.ejerciciosclases;
+package es.uah.matcomp.mp.e1.ejerciciosclases.e1a.Date;
 
-import java.text.DecimalFormat;
 
 // T1.7
 public class TestDate {

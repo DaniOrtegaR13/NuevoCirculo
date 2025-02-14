@@ -1,5 +1,6 @@
-package es.uah.matcomp.mp.e1.ejerciciosclases;
+package es.uah.matcomp.mp.e1.ejerciciosclases.e1a.NewCircle;
 
+//T1.2
     public class TestNuevoCirculo {
         public static void main(String[] args) {
             // Test Constructors and toString()

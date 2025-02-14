@@ -1,4 +1,5 @@
-package es.uah.matcomp.mp.e1.ejerciciosclases;
+package es.uah.matcomp.mp.e1.ejerciciosclases.e1a.InvoiceItem;
+
 //T1.5.
 public class TestInvoiceItem {
     public static void main(String[] args) {

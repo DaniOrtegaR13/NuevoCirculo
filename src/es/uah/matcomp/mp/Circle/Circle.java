@@ -1,4 +1,4 @@
- package es.uah.matcomp.mp.el1.eja.e1;
+ package es.uah.matcomp.mp.Circle;
 /**
  * The Circle class models a circle with a radius and color.
  */

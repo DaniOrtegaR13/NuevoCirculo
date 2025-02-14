@@ -1,5 +1,5 @@
-package es.uah.matcomp.mp.e1.ejerciciosclases;
-
+package es.uah.matcomp.mp.e1.ejerciciosclases.e1a.Rectangle;
+//T1.3
 
 public class TestRectangle {
     public static void main(String[] args) {
