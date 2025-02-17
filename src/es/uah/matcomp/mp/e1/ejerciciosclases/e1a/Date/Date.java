@@ -7,16 +7,7 @@ import java.text.DecimalFormat;
 public class Date {
 
 
-    public static void main(String[] args) {
-
-
-
-        int number = 7;
-        DecimalFormat df = new DecimalFormat("000");
-        String formattedNumber = df.format(number);
-        System.out.println(formattedNumber); // Imprime "007"
-    }
-        private int day;
+        private int  day;
         //int day = [1,31];
         private int month;
         //int month = [1,12];

@@ -1,7 +1,6 @@
 package es.uah.matcomp.mp.e1.ejerciciosclases.e1a.Ball;
 
 
-
 public class Ball {
 
     private float x;
@@ -22,9 +21,7 @@ public class Ball {
     public float getX() {
         return x;
     }
-    public void setX(float x) {
-        this.x = x;
-    }
+    public void setX(float x) {this.x = x;}
     public float getY() {
         return y;
     }
